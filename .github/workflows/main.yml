@@ -1,4 +1,4 @@
-name: CI to EC2
+name: GithubActions to EC2
 
 on:
   push:
